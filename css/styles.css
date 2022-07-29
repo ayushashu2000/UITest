@@ -1,0 +1,23 @@
+.head{
+
+  margin-left: 50px;
+  background: linear-gradient(to right,#fff 20%,#bcaef5 80%)
+}
+.btn{
+  background-color: #2DD35C;
+  border:0;
+  height:36px;
+  color:#fff;
+  border-radius: 50px;
+  width:100px;
+}
+.btn-2{
+  background-color: #fff;
+  border:1px solid;
+  border-color: #5553B7;
+  color:#5553B7;
+  border-radius: 50px;
+  height:36px;
+  margin-left: 10px;
+  width:125px;
+}
